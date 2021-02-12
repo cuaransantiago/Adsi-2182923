@@ -1,6 +1,13 @@
-# Adsi-2182923
-## Repositorio de TGO en Análisis y desarrollo de sistemas de información
+# adsi-2182923
+## Repositorio del TGO en Análisis y Desarrollo de Sistemas de Información
 
+> ***Lorem ipsum dolor*** sit, amet consectetur adipisicing elit. Qui quia rerum magnam asperiores, debitis, quaerat nesciunt est, possimus dolorem quae molestias mollitia impedit tempora vel quam eos! Nostrum, quisquam repellendus?  
 
+---
 
-> ***Lorem ipsum dolor*** sit amet, consectetur adipisicing elit. Provident repellendus corporis esse, a neque libero minima consequatur, ex enim placeat, excepturi nobis numquam totam molestias ducimus sunt doloremque! Praesentium, soluta?
+### Temas:
+
+- 01-emmet
+- 02-html
+- 03-html5
+- 04-pug
